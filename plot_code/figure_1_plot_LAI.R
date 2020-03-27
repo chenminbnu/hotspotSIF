@@ -5,7 +5,7 @@ library(ggpubr)
 library(grid)
 library(cowplot)
 library(tidyverse)
-setwd('D://нр╣дндуб//SIF-GPP//results_code//SCOPE SA//data')
+setwd('D:../sensitivity_analysis_data')
 
 source('function.R')
 sif_data <- readMat('different_LAI_reshape.mat')
